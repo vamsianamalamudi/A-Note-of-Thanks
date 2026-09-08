@@ -1,11 +1,12 @@
 {
   "name": "a-note-of-thanks",
-  "homepage": "https://vamsianamalamudi.github.io/a-note-of-thanks",
+  "homepage": "https://vamsianamalamudi.github.io/A-Note-of-Thanks",
   "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "postbuild": "touch out/.nojekyll",
     "start": "next start",
     "lint": "next lint",
     "predeploy": "npm run build",
