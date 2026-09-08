@@ -27,8 +27,9 @@ export const defaultPeople: Person[] = [
     id: 'Apeksha.C',
     name: 'Apeksha',
     message:
-      'You have this rare ability to make people feel seen without ever making a scene. Your kindness, practicality, and warmth have made a serious impact on the way this chapter felt.\n\nYou brought so much sincerity to everything, and somehow always managed to keep things light even when work was busy.\n\nI am grateful for the conversations, the support, and the small moments that ended up meaning a lot.',
-    insideJoke: 'The time we both agreed a problem was “not ideal” and then immediately went into full problem-solving mode.',
+      '​Thank you for everything over the course of our time working together. You’ve been so much more than a senior to me—a true mentor, confidant, and resident finance specialist whenever I needed guidance.\n\n​Our Goa trips are core memories I'll hold onto for life:\n​Goa Outing #1: Where I walked away with some invaluable life lessons thanks to you\n​Goa Outing #2: My "farewell" party that somehow spiraled into an intense, late-night Mahabharat debate!
+​I’m really going to miss our chats and your perspective. Thank you for always looking out for me. Let’s definitely keep in touch!',
+    insideJoke: '',
     enabled: true,
   },
   {
