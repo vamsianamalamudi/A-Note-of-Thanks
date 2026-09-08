@@ -27,9 +27,8 @@ export const defaultPeople: Person[] = [
     id: 'Apeksha.C',
     name: 'Apeksha',
     message:
-      '​Thank you for everything over the course of our time working together. You’ve been so much more than a senior to me—a true mentor, confidant, and resident finance specialist whenever I needed guidance.\n\n​Our Goa trips are core memories I'll hold onto for life:\n​Goa Outing #1: Where I walked away with some invaluable life lessons thanks to you\n​Goa Outing #2: My "farewell" party that somehow spiraled into an intense, late-night Mahabharat debate!
-​I’m really going to miss our chats and your perspective. Thank you for always looking out for me. Let’s definitely keep in touch!',
-    insideJoke: '',
+      'Thank you for everything over the course of our time working together. You have been so much more than a senior to me - a true mentor, confidant, and finance specialist whenever I needed guidance. Im really going to miss our chats and your perspective. Thank you for always looking out for me. Lets definitely keep in touch!',
+    insideJoke: 'Our Goa trips are core memories I will hold onto for life: \n Goa Outing #1: Where I walked away with some invaluable life lessons thanks to you \n Goa Outing #2: My farewell party that somehow spiraled into an intense, late-night Mahabharat debate!',
     enabled: true,
   },
   {
