@@ -256,12 +256,18 @@ export default function HomePage() {
           <br />
           I’d love to stay connected:
           <br />
-            LinkedIn:	https://www.linkedin.com/in/vamsi-a/
-            Phone / WhatsApp: +91 8073672615
-            Personal Email: vamsi.anamalamudi@gmail.com
+            LinkedIn:{' '}
+            <a href="https://www.linkedin.com/in/vamsi-a/" target="_blank" rel="noreferrer">
+              https://www.linkedin.com/in/vamsi-a/
+            </a>
           <br />
-          Wishing you all the very best!
-          
+            Phone / WhatsApp: +91 8073672615
+          <br />
+            Personal Email:{' '}
+            <a href="mailto:vamsi.anamalamudi@gmail.com">vamsi.anamalamudi@gmail.com</a>
+          <br />
+          <br />
+          <br />
         </p>
         <p className="closing-kicker">And if I haven’t said it enough…</p>
         <h3>Thank you.</h3>
