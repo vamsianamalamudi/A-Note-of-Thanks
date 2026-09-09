@@ -8,18 +8,50 @@ export type Person = {
 
 export const defaultPeople: Person[] = [
   {
-    id: 'neha.p',
-    name: 'Neha ji',
+    id: 'Krishnan',
+    name: 'Krishnan',
     message:
-      'it is been an absolute blast working with you. You have been way less of a code reviewer and way more of a bug finder—though I guess someone had to keep us honest!\n I am genuinely going to miss all our project discussions, heated arguments, and pulling your leg. On the bright side, you now get the honor of handling all the DB-Vault issues and endless pings yourself. You have got this!\n Keep me posted on how the mascot to Configspectator turns out—I expect updates. \n Lets definitely stay in touch!',
+      '​I couldn’t leave without saying a huge thank you for your leadership and guidance. \n Beyond your incredible technical depth, thank you for always being so approachable and carrying that signature warm, smiling face no matter how chaotic things got. It’s been an absolute privilege working under your leadership. \n Wishing you all the best, and let’s stay connected!',
+    insideJoke: 'When the entire SREs & Devs was glued to a call trying to figure out what went wrong on an edge Nginx box. You dropped into the call and pinpointed it was an nf_conntrack issue within one minute flat. That was the moment I thought, "Yep, that\'s exactly why he\'s Head of Engineering.',
+    enabled: true,
+  },
+  {
+    id: 'Prathap',
+    name: 'Prathap',
+    message:
+      'I couldn’t head out without saying a massive thank you. As my very first manager, you set the absolute gold standard—cool, sportive, and somehow always armed with a solution no matter what broke.​ \n I don\'t know how you did it, but you never once got irritated, no matter how many silly doubts I brought to you day after day. You answered every single one with so much patience. I still remember how genuinely thrilled I was to set up the SmokePing tool and see those dashboards live for the first time—that was such a huge milestone for me early on!​ \n Thank you for setting me up for success right from day one. I really hope our paths cross again down the road. Let’s stay in touch!',
     insideJoke: '',
     enabled: true,
   },
   {
-    id: 'Nandu',
+    id: 'Nandhu',
     name: 'Nandu',
     message:
-      '',
+      'I couldn’t leave without telling you how much your leadership has meant to me. You are easily the most chill manager I’ve ever worked with—colder than ice! \n No matter what hit the fan, you always stood in front of us like a brick wall and took all the pressure, criticism, and shouting so the team didn\'t have to. I will always be incredibly grateful for that shield. \n Also, thanks for DbVault—it was your brilliant idea and my privilege to build it out! If you ever start your own company in the future, just say the word. One call and I’m joining immediately, no second thoughts. \n Thank you for everything, and let’s stay connected!',
+    insideJoke: '',
+    enabled: true,
+  },
+  {
+    id: 'Balu',
+    name: 'Balu',
+    message:
+      'I wanted to say a huge thank you for everything during my tI ame at PhonePe. You have been way less of a manager and so much more of a friend and mentor to me. \n Thank you for always having my back, keeping me motivated, and constantly supporting me. You completely redefined what leadership looks like—you showed me how a manager can build genuine friendships while stI will driving results and getting things done. \n I am truly grateful for your guidance and support. Lets definitely stay in touch!',
+    insideJoke: '',
+    enabled: true,
+  },
+  {
+    id: 'Apeksha.C',
+    name: 'Apeksha ji',
+    message:
+      'Thank you for everything over the course of our tI ame working together. You have been so much more than a senior to me - a true mentor, confidant, and finance specialist whenever I needed guidance. I am really going to miss our chats and your perspective. Thank you for always looking out for me. Lets definitely keep in touch!',
+    insideJoke: 'Our Goa trips are core memories I wI will hold onto for life: #1: Where I walked away with some invaluable life lessons thanks to you. #2: My farewell party that somehow spiraled into an intense, late-night Mahabharat debate!',
+    enabled: true,
+  },
+  {
+    id: 'neha.p',
+    name: 'Neha ji',
+    message:
+      'it is been an absolute blast working with you. You have been way less of a code reviewer and way more of a bug finder—though I guess someone had to keep us honest!\n I am genuinely going to miss all our project discussions, heated arguments, and pulling your leg. On the bright side, you now get the honor of handling all the DB-Vault issues and endless pings yourself. You have got this!\n Keep me posted on how the mascot to Configspectator turns out—I expect updates. \n Lets definitely stay in touch!',
     insideJoke: '',
     enabled: true,
   },
@@ -32,26 +64,58 @@ export const defaultPeople: Person[] = [
     enabled: true,
   },
   {
-    id: 'Apeksha.C',
-    name: 'Apeksha ji',
-    message:
-      'Thank you for everything over the course of our tI ame working together. You have been so much more than a senior to me - a true mentor, confidant, and finance specialist whenever I needed guidance. I am really going to miss our chats and your perspective. Thank you for always looking out for me. Lets definitely keep in touch!',
-    insideJoke: 'Our Goa trips are core memories I wI will hold onto for life: #1: Where I walked away with some invaluable life lessons thanks to you. #2: My farewell party that somehow spiraled into an intense, late-night Mahabharat debate!',
-    enabled: true,
-  },
-  {
-    id: 'Balu',
-    name: 'Balu',
-    message:
-      'I wanted to say a huge thank you for everything during my tI ame at PhonePe. You have been way less of a manager and so much more of a friend and mentor to me. \n Thank you for always having my back, keeping me motivated, and constantly supporting me. You completely redefined what leadership looks like—you showed me how a manager can build genuine friendships while stI will driving results and getting things done. \n I am truly grateful for your guidance and support. Lets definitely stay in touch!',
-    insideJoke: '',
-    enabled: true,
-  },
-  {
     id: 'Malhar_Sankar',
     name: 'Malhar & Sankar',
     message:
       'Hey Malhar & Sankar, \n Even though we didnt get to work together for very long, it didnt take much tI ame to see how hardworking—and fun-loving—you both are. \n Also, thanks to you guys for our casino experience. It definitely would not have happened without you guys! \n Keep doing what you’re doing, keep crushing it, and I really hope our paths cross again in the future. Let’s stay in touch!',
+    insideJoke: '',
+    enabled: true,
+  },
+  {
+    id: 'AJ',
+    name: 'AJ',
+    message:
+      'I couldn’t leave without writing you a proper goodbye. As my very first senior, mentor, workaholic guide, and confidant, you’ve had a massive impact on my career. \n You single-handedly building the UPI infrastructure back in the day is the stuff of legends. \n More than anything, you were the one person in the office I could trust blindly on any given day, whether I needed tech guidance or personal advice. Thank you for always having my back. Let’s definitely stay in touch!',
+    insideJoke: 'I’ll never forget the infamous YES Bank downtime—while the rest of us went off to play football, you and Nandhu were grinding away, breaking your heads to bring UPI back online!',
+    enabled: true,
+  },
+  {
+    id: 'Sachin',
+    name: 'Sachin',
+    message:
+      '​First off, I will always be grateful to you for being the reason for PhonePe coming to Atria!  \n ​It’s crazy to think we started out as intern project partners and came full circle to end up as project partners again on Configspectator. Good luck holding down the fort with Configspectator—especially with Neha’s sharp eye finding every single bug! \n ​It’s been an awesome run working alongside you. Wishing you the absolute best, and let’s definitely stay in touch!',
+    insideJoke: '',
+    enabled: true,
+  },
+  {
+    id: 'Prabjoth-Mishra',
+    name: 'Prabjoth & Mishra',
+    message:
+      'Just wanted to drop a note before I head out. You both are not just incredibly hardworking, but genuinely kind-hearted souls. Don\'t ever change that about yourselves—keep that same energy and keep excelling in everything you do. \n It’s been a pleasure being around you guys. Wishing you both the absolute best ahead, and let’s definitely stay in touch!',
+    insideJoke: '',
+    enabled: true,
+  },
+  {
+    id: 'Sid',
+    name: 'Sid ji',
+    message:
+      'Since we missed your child marriage, the least you can do is invite us to your kid’s wedding so I can finally get my Rajasthan trip! In all seriousness, it’s been so much fun working with you and hanging out during team outings.Keep being awesome, and make sure you keep in touch (especially when that trip plan gets finalized)!',
+    insideJoke: '',
+    enabled: true,
+  },
+  {
+    id: 'Jothi-Prashant-AD',
+    name: 'AD & Jothi & Prashant',
+    message:
+      'Hey! Though we didn\'t get to work together much, I really enjoyed our chats during team outings and in the pantry. Hope our paths cross again down the road. Wishing you all the best and have a great time ahead! Let\'s stay in touch!',
+    insideJoke: '',
+    enabled: true,
+  },
+  {
+    id: 'Prajwal-Rohan',
+    name: 'Prajwal & Rohan',
+    message:
+      'Just wanted to drop a quick note before I head out. You guys are super hardworking and absolute solid engineers to have on the team. Keep up that same energy! \n ​Wishing you both all the very best for the future. \n ​(And Prajwal—I haven\'t forgotten about your referral treat yet!) \n ​Let\'s stay in touch!',
     insideJoke: '',
     enabled: true,
   },
@@ -108,6 +172,38 @@ export const defaultPeople: Person[] = [
     name: 'KP & Pratik & Umed',
     message:
       'Just wanted to drop a quick note before I head out. Thank you so much for all the constant support and endless guidance on the bm-stats and DB-Vault plugins—you guys made dealing with all of that so much easier! \n It’s been a real blast working alongside you guys. Wishing all three of you the absolute best with everything ahead. Keep crushing it, and let’s definitely stay in touch!',
+    insideJoke: '',
+    enabled: true,
+  },
+  {
+    id: 'Mannoj',
+    name: 'Mannoj',
+    message:
+      'I couldn’t leave without thanking you properly. As one of my very first seniors, you played a huge role in shaping how I work today. \n On a serious note, back when you used to question the why behind every single thing I did, I’ll admit I used to get so frustrated. But looking back, it forced me to prepare thoroughly every time. That relentless reasoning completely upgraded my mindset on problem-solving, and I’m so grateful for it. \n Thanks for everything, Mannoj. I really hope our paths cross again!',
+    insideJoke: 'Burzin pulling your leg for spending more time in the recreation room than at your desk!',
+    enabled: true,
+  },
+  {
+    id: 'Varun',
+    name: 'Varun',
+    message:
+      'As one of my very first teammates and seniors, thank you for training me and helping me become the engineer I am today. \n It’s been an absolute privilege working with and learning from you. Hope our paths cross again down the road—let\'s definitely stay in touch!',
+    insideJoke: 'Deliberately volunteering for night activities just so you could stream football matches while running DB alters! Elite multitasking !!',
+    enabled: true,
+  },
+  {
+    id: 'Rahul',
+    name: 'Rahul',
+    message:
+      '​It’s been awesome working with you! I still remember dumping tons of KT on you for that BK1 setup back in the day, but watching your growth since then has been incredible. \n ​Going from contractor to FTE to EM is a serious hustle, and you earned every bit of it. Keep that momentum going! It’s been a real pleasure working with you—let’s definitely stay in touch.',
+    insideJoke: '',
+    enabled: true,
+  },
+  {
+    id: 'Jeb',
+    name: 'Jeb',
+    message:
+      '​I could not leave without reaching out to say thank you. Back when you were single-handedly managing the entire HDP stack, I used to look up to you and genuinely thought, "I want to be like him someday."​ \n You were actually the one who gave me my very first HDP task! (I can not remember if it was the Ambari setup or the Kafka connector salting, but it was definitely interesting back then for me.)​ \n Thank you for being such an inspiration early in my journey here. I really appreciate the impact you had on my growth. Let\'s definitely stay in touch!.',
     insideJoke: '',
     enabled: true,
   },
