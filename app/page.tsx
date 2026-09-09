@@ -247,6 +247,22 @@ export default function HomePage() {
       </section>
 
       <section className="closing">
+        <p>
+          As I wrap up my time at PhonePe, I wanted to send a final note to thank all of you.
+          <br />
+          To anyone I might have missed mentioning individually—please forgive me for all the silly mistakes or endless questions over the years! It has been an absolute privilege working alongside such a talented, sharp, and patient group of people.
+          <br />
+          PhonePe will always hold a very special place in my heart, and I'm taking tons of great memories and lessons with me.
+          <br />
+          I’d love to stay connected:
+          <br />
+            LinkedIn:	https://www.linkedin.com/in/vamsi-a/
+            Phone / WhatsApp: +91 8073672615
+            Personal Email: vamsi.anamalamudi@gmail.com
+          <br />
+          Wishing you all the very best!
+          
+        </p>
         <p className="closing-kicker">And if I haven’t said it enough…</p>
         <h3>Thank you.</h3>
         <p>
