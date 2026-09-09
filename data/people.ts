@@ -56,6 +56,54 @@ export const defaultPeople: Person[] = [
     enabled: true,
   },
   {
+    id: 'AT',
+    name: 'AT',
+    message:
+      '​I couldn’t leave without saying a huge thank you. The resident Nomad, Old Monk connoisseur, and legitimately a guy who knows everything about everything on Earth—it’s been an absolute privilege learning from you! \n ​Thank you for being such an awesome mentor and guide, both in and outside of work. All those knowledge-sharing sessions made a huge impact on me, and I’ll always be grateful for your time and advice. \n ​And don\'t worry, I am definitely bugging you when it\'s time to set up my Auro 3D system! Wishing you all the best, and let’s make sure we stay in touch!',
+    insideJoke: '',
+    enabled: true,
+  },
+  {
+    id: 'GG',
+    name: 'GG ji',
+    message:
+      'I couldn’t leave without saying a proper thank you! I’m so grateful for all the KTs you gave us early on and your endless patience in answering every single silly doubt without ever batting an eye. \n It’s been awesome watching your journey here—from SRE-2 all the way to EM, and from being single to becoming a proud father of one! You’ve achieved so much, and it’s been a real pleasure working with you. \n Thank you for everything, GG ji. Wishing you and your family all the happiness ahead, and let’s definitely stay in touch!',
+    insideJoke: '',
+    enabled: true,
+  },
+  {
+    id: 'Satyendra-Tarak',
+    name: 'Satyendra & Tarak',
+    message:
+      'I couldn\'t leave without saying a quick thanks. I really appreciate all your guidance during my time here—it was a real pleasure working with you. Wishing you all the best for everything ahead, and let’s definitely stay in touch!',
+    insideJoke: '',
+    enabled: true,
+  },
+  {
+    id: 'Sahil',
+    name: 'Sahil',
+    message:
+      'PhonePe’s resident Shayari King and top singer—I couldn’t leave without dropping a message for you! \n रुकती नहीं यह ज़िंदगी किसी के जाने से, \n पर मज़ा तो आता है तेरे साथ महफ़िल जमाने से! \n केरल की ट्रिप और तेरी शायरी याद रहेगी हमेशा, \n चल मिलते हैं फिर किसी नए बहाने से! \n That Kerala trip was an absolute blast with you! Thanks for always bringing the music, the poetry, and the good vibes to the team. \n Keep singing, keep dropping those wah-wah Shayari moments, and let’s definitely stay in touch!',
+    insideJoke: '',
+    enabled: true,
+  },
+  {
+    id: 'Shivam',
+    name: 'Shivam',
+    message:
+      '​PhonePe’s resident singer. \n ​First off, don\'t even think about forgetting me when it comes to that Philippines wedding invitation! Just so you know, even if you "forget" to send the invite, I’m showing up anyway. \n ​On a serious note, you are truly such a kind, sweet soul. Don\'t ever change that about yourself, and keep excelling in everything you do in life. \n ​Oh, and now that I’m heading out, you officially have full permission to trouble Neha with all your DB-Vault issues! \n ​Wishing you all the very best, and let’s definitely stay in touch!',
+    insideJoke: '',
+    enabled: true,
+  },
+  {
+    id: 'Udeshya',
+    name: 'Udeshya',
+    message:
+      '​I couldn’t leave without dropping a note for the official Bluff Master and hands-down the kindest soul at PhonePe! \n It’s been an absolute pleasure working with you and hanging out. Just remember, you’re not getting off the hook—you owe us a hosting session at your heavenly house someday, and I’m definitely holding you to that! \n Keep being the awesome, genuine person you are. Wishing you all the success in the world, and let’s definitely stay in touch!',
+    insideJoke: '',
+    enabled: true,
+  },
+  {
     id: 'KP-Pratik-Umed',
     name: 'KP & Pratik & Umed',
     message:
