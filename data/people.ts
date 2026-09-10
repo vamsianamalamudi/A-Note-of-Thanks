@@ -51,7 +51,7 @@ export const defaultPeople: Person[] = [
     id: 'neha.p',
     name: 'Neha ji',
     message:
-      'It is been an absolute blast working with you. You have been way less of a code reviewer and way more of a bug finder :P \n I am genuinely going to miss all our project discussions, heated arguments, and pulling your leg. On the bright side, you now get the honor of handling all the DB-Vault issues and endless pings yourself. You have got this!\n Keep me posted on how the mascot to Configspectator turns out. \n Lets definitely stay in touch!',
+      'DESERVES TO BE CFO \n It is been an absolute blast working with you. You have been way less of a code reviewer and way more of a bug finder :P \n I am genuinely going to miss all our project discussions, heated arguments, and pulling your leg. On the bright side, you now get the honor of handling all the DB-Vault issues and endless pings yourself. You have got this!\n Keep me posted on how the mascot to Configspectator turns out. \n Lets definitely stay in touch!',
     insideJoke: '',
     enabled: true,
   },
