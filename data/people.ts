@@ -227,7 +227,7 @@ export const defaultPeople: Person[] = [
     id: 'Devs',
     name: 'Devs - Pincode aka PBS, NPE, CCD, Web, FRA, CSX, Ex-UPI, Ex-Ins ',
     message:
-      'Pincode a.k.a PBS - Salil, Ekta, Tilak, Tushar, Manuj \n Npe - Harsh \n CCD - Sarang, Dhiraj, Shivanshu, Utkarsh, Yash, Geetika \n Web - Ankur, Soumyashis \n Ex-UPI - Ajinkya, Vishal \n Ex-Ins - Bobby, Chaitanya \n It was absolute bliss working with you all! Hopefully, I closed all my tickets on time. In case you ever need further assistance on anything I left behind, feel free to trouble Nandu, Balu, Apeksha, Neha, Malhar, or Sankar. :p\n Thanks for all the support, and hope our paths cross again!',
+      'Pincode a.k.a PBS - Salil, Ekta, Tilak, Aditi, Tushar, Manuj \n Npe - Harsh \n CCD - Sarang, Dhiraj, Shivanshu, Utkarsh, Yash, Geetika \n Web - Ankur, Soumyashis \n Ex-UPI - Ajinkya, Vishal \n Ex-Ins - Bobby, Chaitanya \n It was absolute bliss working with you all! Hopefully, I closed all my tickets on time. In case you ever need further assistance on anything I left behind, feel free to trouble Nandu, Balu, Apeksha, Neha, Malhar, or Sankar. :p\n Thanks for all the support, and hope our paths cross again!',
     insideJoke: '',
     enabled: true,
   },
