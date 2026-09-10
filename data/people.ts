@@ -192,6 +192,14 @@ export const defaultPeople: Person[] = [
     enabled: true,
   },
   {
+    id: 'Reeshna-Hans',
+    name: 'Reeshna & Hans',
+    message:
+      '​First off, huge thanks for saving the day during my first outage on a Friday night! :p \n Beyond the fire-fighting, I truly appreciate your endless patience in answering all my silly doubts and guiding me through my journey at PhonePe. I learned a lot from both of you. Wishing you all the best, and I really hope our paths cross again!',
+    insideJoke: '',
+    enabled: true,
+  },
+  {
     id: 'Rahul',
     name: 'Rahul',
     message:
