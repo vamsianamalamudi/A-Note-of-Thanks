@@ -88,8 +88,8 @@ export const defaultPeople: Person[] = [
     enabled: true,
   },
   {
-    id: 'Prabjoth-Mishra',
-    name: 'Prabjoth & Mishra',
+    id: 'Prabhjot-Mishra',
+    name: 'Prabhjot & Mishra',
     message:
       'Just wanted to drop a note before I head out. You both are not just incredibly hardworking, but genuinely kind-hearted souls. Don\'t ever change that about yourselves—keep that same energy and keep excelling in everything you do. \n It’s been a pleasure being around you guys. Wishing you both the absolute best ahead, and let’s definitely stay in touch!',
     insideJoke: '',
